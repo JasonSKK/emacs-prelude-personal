@@ -143,7 +143,7 @@ B is a buffer that you want in top left most window."
     (if (and (foxdot-get-foxdot-buffer) (foxdot-get-sc3-buffer))
 	(save-selected-window
 	  (delete-other-windows)
-	  (split-window-below)
+	  (split-window-right)
 	  (other-window 1)
 	  (foxdot-bring-foxdot-buffer) ;;  (or (get-buffer "*FoxDot*") (get-buffer "*Python*")))
 	  (split-window-below)

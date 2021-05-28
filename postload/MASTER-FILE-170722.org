@@ -40,9 +40,10 @@
 
 * customize location set coordinates for corfu
 
+
 #+BEGIN_SRC emacs-lisp
-  (setq calendar-latitude [39 37 north])
-  (setq calendar-longitude [19 54 east])
+  (setq calendar-latitude [40 64 north])
+  (setq calendar-longitude [22 94 east])
 #+END_SRC
 * moe theme powerline delimiter faces
 
