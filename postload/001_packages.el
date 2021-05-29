@@ -29,7 +29,7 @@ Missing packages are installed automatically."
 
 (prelude-load-require-packages
  '(
-   moe-theme
+   ;; moe-theme
    powerline
    multi-term))
 

@@ -40,7 +40,6 @@
 
 * customize location set coordinates for corfu
 
-
 #+BEGIN_SRC emacs-lisp
   (setq calendar-latitude [40 64 north])
   (setq calendar-longitude [22 94 east])
@@ -113,8 +112,8 @@ dark theme hl colors and inconsolata font
    '(hl-sexp-face ((t (:background "gray10"))))
    )
 
-  (powerline-moe-theme)
-  (moe-dark)
+   (powerline-moe-theme)
+   (moe-dark)
 #+END_SRC
 * Cursor Beep
 
