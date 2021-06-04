@@ -10,12 +10,12 @@
  '(company-quickhelp-color-background "#4F4F4F")
  '(company-quickhelp-color-foreground "#DCDCCC")
  '(custom-safe-themes
-   '("14f0fbf6f7851bfa60bf1f30347003e2348bf7a1005570fd758133c87dafe08f" "bffa9739ce0752a37d9b1eee78fc00ba159748f50dc328af4be661484848e476" "8dc4a35c94398efd7efee3da06a82569f660af8790285cd211be006324a4c19a" "0cd56f8cd78d12fc6ead32915e1c4963ba2039890700458c13e12038ec40f6f5" "20bf9f519f78b247da9ccf974c31d3537bee613ff11579f539b2781246dee73b" "d8dc153c58354d612b2576fea87fe676a3a5d43bcc71170c62ddde4a1ad9e1fb" "2540689fd0bc5d74c4682764ff6c94057ba8061a98be5dd21116bf7bf301acfb" "2a7beed4f24b15f77160118320123d699282cbf196e0089f113245d4b729ba5d" "e11569fd7e31321a33358ee4b232c2d3cf05caccd90f896e1df6cab228191109" "946e871c780b159c4bb9f580537e5d2f7dba1411143194447604ecbaf01bd90c" "1a1cdd9b407ceb299b73e4afd1b63d01bbf2e056ec47a9d95901f4198a0d2428" "251348dcb797a6ea63bbfe3be4951728e085ac08eee83def071e4d2e3211acc3" "a27c00821ccfd5a78b01e4f35dc056706dd9ede09a8b90c6955ae6a390eb1c1e" "ee4dcfcb646d4ad11fe1bd90ed111e3e59a78703325fdef347b50a39ccba13d7" "30f7c9e85d7fad93cf4b5a97c319f612754374f134f8202d1c74b0c58404b8df" "291588d57d863d0394a0d207647d9f24d1a8083bb0c9e8808280b46996f3eb83" default))
+   '("51ec7bfa54adf5fff5d466248ea6431097f5a18224788d0bd7eb1257a4f7b773" "14f0fbf6f7851bfa60bf1f30347003e2348bf7a1005570fd758133c87dafe08f" "bffa9739ce0752a37d9b1eee78fc00ba159748f50dc328af4be661484848e476" "8dc4a35c94398efd7efee3da06a82569f660af8790285cd211be006324a4c19a" "0cd56f8cd78d12fc6ead32915e1c4963ba2039890700458c13e12038ec40f6f5" "20bf9f519f78b247da9ccf974c31d3537bee613ff11579f539b2781246dee73b" "d8dc153c58354d612b2576fea87fe676a3a5d43bcc71170c62ddde4a1ad9e1fb" "2540689fd0bc5d74c4682764ff6c94057ba8061a98be5dd21116bf7bf301acfb" "2a7beed4f24b15f77160118320123d699282cbf196e0089f113245d4b729ba5d" "e11569fd7e31321a33358ee4b232c2d3cf05caccd90f896e1df6cab228191109" "946e871c780b159c4bb9f580537e5d2f7dba1411143194447604ecbaf01bd90c" "1a1cdd9b407ceb299b73e4afd1b63d01bbf2e056ec47a9d95901f4198a0d2428" "251348dcb797a6ea63bbfe3be4951728e085ac08eee83def071e4d2e3211acc3" "a27c00821ccfd5a78b01e4f35dc056706dd9ede09a8b90c6955ae6a390eb1c1e" "ee4dcfcb646d4ad11fe1bd90ed111e3e59a78703325fdef347b50a39ccba13d7" "30f7c9e85d7fad93cf4b5a97c319f612754374f134f8202d1c74b0c58404b8df" "291588d57d863d0394a0d207647d9f24d1a8083bb0c9e8808280b46996f3eb83" default))
  '(fci-rule-color "#383838")
  '(nrepl-message-colors
    '("#CC9393" "#DFAF8F" "#F0DFAF" "#7F9F7F" "#BFEBBF" "#93E0E3" "#94BFF3" "#DC8CC3"))
  '(package-selected-packages
-   '(telephone-line emms spacemacs-theme latex-preview-pane epresent flycheck-aspell perspective dockerfile-mode csv-mode afternoon-theme airline-themes alect-themes ample-theme ample-zen-theme badger-theme badwolf-theme basic-theme blackboard-theme bliss-theme caroline-theme chyla-theme circadian commentary-theme creamsody-theme cycle-themes darkburn-theme darkmine-theme darkokai-theme darkroom darktooth-theme django-theme doneburn-theme eink-theme espresso-theme abyss-theme zop-to-char zenburn-theme yaml-mode workgroups2 which-key web-mode volatile-highlights vkill use-package undo-tree tiny-menu tidal sr-speedbar smex smartrep smartparens smart-mode-line slime scss-mode rainbow-mode rainbow-delimiters ox-hugo ov osx-plist org-ref org-plus-contrib org-journal org-bullets operate-on-number multi-term move-text moe-theme mediawiki mc-extras markdown-mode magit litable json-mode js2-mode imenu-anywhere image-dired+ ido-completing-read+ icicles hl-sexp helm-swoop helm-projectile helm-descbinds helm-ag guru-mode grizzl gotest god-mode go-projectile gitignore-mode gitconfig-mode git-timemachine gist geiser flycheck-lilypond flx-ido expand-region exec-path-from-shell elisp-slime-nav editorconfig ebib easy-kill easy-hugo discover-my-major diminish diff-hl deft crux corral company-go company-auctex company-anaconda cdlatex calfw-org calfw-cal calfw buffer-move browse-kill-ring bookmark+ bm beacon avy-zap autobookmarks auto-async-byte-compile anzu ahungry-theme ace-window ace-popup-menu ace-mc ace-isearch ac-c-headers))
+   '(load-theme-buffer-local telephone-line spacemacs-theme latex-preview-pane epresent flycheck-aspell perspective dockerfile-mode csv-mode afternoon-theme airline-themes alect-themes ample-theme ample-zen-theme badger-theme badwolf-theme basic-theme blackboard-theme bliss-theme caroline-theme chyla-theme circadian commentary-theme creamsody-theme cycle-themes darkburn-theme darkmine-theme darkokai-theme darkroom darktooth-theme django-theme doneburn-theme eink-theme espresso-theme abyss-theme zop-to-char zenburn-theme yaml-mode workgroups2 which-key web-mode volatile-highlights vkill use-package undo-tree tiny-menu tidal sr-speedbar smex smartrep smartparens smart-mode-line slime scss-mode rainbow-mode rainbow-delimiters ox-hugo ov osx-plist org-ref org-plus-contrib org-journal org-bullets operate-on-number multi-term move-text moe-theme mediawiki mc-extras markdown-mode magit litable json-mode js2-mode imenu-anywhere image-dired+ ido-completing-read+ icicles hl-sexp helm-swoop helm-projectile helm-descbinds helm-ag guru-mode grizzl gotest god-mode go-projectile gitignore-mode gitconfig-mode git-timemachine gist geiser flycheck-lilypond flx-ido expand-region exec-path-from-shell elisp-slime-nav editorconfig ebib easy-kill easy-hugo discover-my-major diminish diff-hl deft crux corral company-go company-auctex company-anaconda cdlatex calfw-org calfw-cal calfw buffer-move browse-kill-ring bookmark+ bm beacon avy-zap autobookmarks auto-async-byte-compile anzu ahungry-theme ace-window ace-popup-menu ace-mc ace-isearch ac-c-headers))
  '(pdf-view-midnight-colors '("#DCDCCC" . "#383838"))
  '(vc-annotate-background "#2B2B2B")
  '(vc-annotate-color-map
@@ -97,13 +97,15 @@
  '(font-lock-comment-delimiter-face ((t (:slant italic :foreground "SeaGreen1"))))
  '(font-lock-comment-face ((t (:foreground "dark red" :slant italic))))
  '(font-lock-variable-name-face ((t (:foreground "turquoise2"))))
+ '(helm-M-x-key ((t (:foreground "#D2691E" :underline t))))
+ '(helm-match ((t (:background "#303030" :foreground "color-166" :weight bold))))
  '(helm-selection ((t (:background "color-88" :foreground "white" :underline nil))))
  '(highlight ((t (:background "#383838"))))
  '(hl-line ((t (:background "gray0"))))
  '(hl-sexp-face ((t (:background "gray10"))))
  '(info-title-3 ((t (:inherit info-title-4 :foreground "white" :height 1.2))))
  '(info-title-4 ((t (:inherit info-title-4 :foreground "red"))))
- '(minibuffer-prompt ((t (:background "dark red" :foreground "gray94"))))
+ '(minibuffer-prompt ((t (:background "dark red" :foreground "#005f87"))))
  '(mode-line ((t (:background "DarkCyan" :foreground "tomato" :box (:line-width 1 :color "turquoise3") :weight light :height 118 :family "Monospace"))))
  '(org-block ((t (:foreground "#9bff7" :background "#17271f"))))
  '(org-block-begin-line ((t (:background "#3a2a2f" :foreground "gray99"))))
@@ -123,4 +125,5 @@
  '(powerline-inactive1 ((t (:inherit mode-line-inactive :background "#626262" :foreground "#eeeeee"))))
  '(powerline-inactive2 ((t (:inherit mode-line-inactive :background "#767676" :foreground "#e4e4e4"))))
  '(region ((t (:background "thistle4" :foreground nil))))
+ '(sml/modes ((t (:foreground "black" :weight bold))))
  '(tiny-menu-heading-face ((t (:inherit 'undo-tree-visualizer-active-branch-face)))))
