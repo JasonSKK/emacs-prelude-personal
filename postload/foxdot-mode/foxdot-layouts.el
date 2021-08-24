@@ -149,7 +149,8 @@ B is a buffer that you want in top left most window."
 	  (split-window-below)
 	  (other-window 1)
 	  (foxdot-bring-sc3-buffer)
-	  (foxdot-set-window-buffer-in-frame 0 0 b))))
+	  (foxdot-set-window-buffer-in-frame 0 0 b)
+          )))
   )
 
 (defun foxdot-mode-layout-keybindings ()
